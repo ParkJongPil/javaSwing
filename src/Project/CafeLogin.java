@@ -149,7 +149,7 @@ public class CafeLogin extends JFrame {
 		// 종료
 		btnExit.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				dispose();
+				
 			}
 		});
 		// 종료버튼 엔터키 처리
